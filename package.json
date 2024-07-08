@@ -1,0 +1,20 @@
+{
+  "name": "rip7560-benchmark",
+  "version": "1.0.0",
+  "description": "A benchmark for AA (ERC-4337) smart contract accounts.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "estimate-gas": "node src/rip7560-samples/estimateGas.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}

@@ -2,3 +2,5 @@ ds-test/=lib/forge-std/lib/ds-test/src/
 forge-std/=lib/forge-std/src/
 kernel/=lib/kernel/
 solady/=lib/solady/src/
+account-abstraction/interfaces/=lib/I4337/src/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
